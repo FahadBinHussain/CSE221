@@ -1,0 +1,15 @@
+Invalid expression: calculate 67 + 41
+Invalid expression: calculate 85 / 5
+Invalid expression: calculate 13 - 56
+Invalid expression: calculate 99 - 95
+Invalid expression: calculate 3 / 10
+Invalid expression: calculate 12 * 19
+Invalid expression: calculate 14 - 6
+Invalid expression: calculate 3 * 88
+Invalid expression: calculate 45 * 68
+Invalid expression: calculate 81 - 0
+Invalid expression: calculate 77 + 40
+Invalid expression: calculate 8 * 84
+Invalid expression: calculate 73 - 22
+Invalid expression: calculate 85 - 86
+Invalid expression: calculate 28 * 58
